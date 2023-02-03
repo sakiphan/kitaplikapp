@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "771162241934",
+    "project_id": "earnest-triumph-352611",
+    "storage_bucket": "earnest-triumph-352611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771162241934:android:64137d131b255e544282df",
+        "android_client_info": {
+          "package_name": "com.kitaplik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771162241934-q2cu3p7h8l15k1bds0cvgvhjtnq24brc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kitaplik",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "771162241934-o1fb1tpko8up0077t3s8ffc486qsnt62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fRxGNbPDTJ3P1CYBGMAPafxnb03hAJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771162241934-o1fb1tpko8up0077t3s8ffc486qsnt62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
