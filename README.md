@@ -1,5 +1,5 @@
  
-codeTalks / Talk About Programming Language App
+kitaplikapp
 ======
 
 Packets
@@ -10,12 +10,12 @@ You can see all packages in package.json
 ## Beginning 
 Clone this repository on your local machine.
 <br>
-`git clone https://github.com/sakiphan/codeTalks/tree/master`
+`git clone https://github.com/sakiphan/kitaplikapp`
 
 ## Use 
 To use it after cloning the project: 
 <br>
-`cd codeTalks`
+`cd kitaplikapp`
 <br>
 `code .`
 <br>
